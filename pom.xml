@@ -88,7 +88,7 @@
   </dependencies>
 
   <build>
-    <defaultGoal>clean package</defaultGoal>
+    <defaultGoal>clean test</defaultGoal>
 
     <plugins>
       <plugin>
